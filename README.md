@@ -5,7 +5,7 @@
 
 
 
-| Candidatos   | Votos Obtenidos    |
+| Candidatos   | Votos Obtenidos   |
 | ------- | -------- |
 | Candidato 1  | 100,000    |
 | Candidato 2  | 80,000  |
