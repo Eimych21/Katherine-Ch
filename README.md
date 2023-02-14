@@ -1,13 +1,10 @@
 # Resultados Electorales de la Alcaldía de Guayaquil
 
  
- # Imagenes de los Candidatos 
- ![https://i.ytimg.com/vi/ICQLk8N298E/maxresdefault.jpg](/ruta/a/la/imagen.jpg)
-
-## Resultados 
+ Aqui se mostrarán los resultados de las votaciones para la ALcaldia de Guayaquil en las elecciones de Ecuador 2023.
 
 
-Tablas 
+
 | Candidatos   | Votos Obtenidos    |
 | ------- | -------- |
 | Candidato 1  | 100,000    |
