@@ -2,7 +2,7 @@
 
  
  # Imagenes de los Candidatos 
- ![Texto alternativo](/ruta/a/la/imagen.jpg)
+ ![https://i.ytimg.com/vi/ICQLk8N298E/maxresdefault.jpg](/ruta/a/la/imagen.jpg)
 
 ## Resultados 
 
