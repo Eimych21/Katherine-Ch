@@ -1,20 +1,16 @@
-# Katherine-Ch
+# Resultados Electorales de la Alcaldía de Guayaquil
 
- #Ejemplo de pag Web Hola Mundo
  
- # Imagen 
+ # Imagenes de los Candidatos 
  ![Texto alternativo](/ruta/a/la/imagen.jpg)
 
-Encabezados 
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-#### Encabezado 4
-##### Encabezado 5
-###### Encabezado 
+## Resultados 
+
 
 Tablas 
-| Título  | Título   |
+| Candidatos   | Votos Obtenidos    |
 | ------- | -------- |
-| Texto   | Texto    |
-| Texto   | Texto    |
+| Candidato 1  | 100,000    |
+| Candidato 2  | 80,000  |
+| Candidato 3  | 50,000  |
+| Candidato 4  | 20,000  |
